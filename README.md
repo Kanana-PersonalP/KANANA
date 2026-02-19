@@ -61,3 +61,9 @@ AI 관련 질문에 답하고 필요한 정보를 제공하여 카피피의 학�
   - GitHub: [카나나/프로젝트](https://github.com/Kanana-PersonalP/KANANA)
 
 ---
+
+### 작업 로그
+
+- 2026-02-19: 로컬 Ollama + Roo Code 연동 점검, 모델/툴 호환성 확인
+- 2026-02-19: GitHub 저장소 초기 연동 및 `README.md` 표시 문제 해결
+- 상세 기록: [260219.md](./260219.md)
